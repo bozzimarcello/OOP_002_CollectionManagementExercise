@@ -1,5 +1,3 @@
-using NUnit.Framework;
-
 namespace BankConsoleApp.Test
 {
     public class BankAccountTests
